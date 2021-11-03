@@ -13,7 +13,6 @@ Features:
 
 ### Installing
 ```
-git clone https://github.com/stanislavgitrepo/stanislav-live-chat-app.git .
 npm install
 cd server (server has own dependencies)
 npm install
